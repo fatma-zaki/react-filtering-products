@@ -1,0 +1,20 @@
+.shop-container {
+  padding: 16px;
+    width: 90%;
+    margin: 0 auto;
+
+  background-color: #f9f9f9;
+}
+
+.shop-filters {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.shop-flex {
+    width: 100%;
+ display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
